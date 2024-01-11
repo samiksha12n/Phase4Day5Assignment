@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vv82jAGW+gU7uJiQ09Gu5bdTtEAzzkVBVri1bRCupf1YRAZ7XKjLcZQUjkngTCBQ7ZreirsTnoaCz/ysiEmRMQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitAssignment\\Phase 4\\Day5\\Phase4Day5Assignment\\Phase4Day5Assignment\\Phase4Day5Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samiksha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

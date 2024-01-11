@@ -1,0 +1,14 @@
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Debug\net6.0\Phase4Day5Assignment.exe
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Debug\net6.0\Phase4Day5Assignment.deps.json
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Debug\net6.0\Phase4Day5Assignment.runtimeconfig.json
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Debug\net6.0\Phase4Day5Assignment.dll
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Debug\net6.0\Phase4Day5Assignment.pdb
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\Phase4Day5Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\Phase4Day5Assignment.AssemblyInfoInputs.cache
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\Phase4Day5Assignment.AssemblyInfo.cs
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\Phase4Day5Assignment.csproj.CoreCompileInputs.cache
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\Phase4Day5Assignment.dll
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\refint\Phase4Day5Assignment.dll
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\Phase4Day5Assignment.pdb
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\Phase4Day5Assignment.genruntimeconfig.cache
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\obj\Debug\net6.0\ref\Phase4Day5Assignment.dll

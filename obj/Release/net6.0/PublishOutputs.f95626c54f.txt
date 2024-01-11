@@ -1,0 +1,5 @@
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Release\net6.0\publish\Phase4Day5Assignment.exe
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Release\net6.0\publish\Phase4Day5Assignment.dll
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Release\net6.0\publish\Phase4Day5Assignment.deps.json
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Release\net6.0\publish\Phase4Day5Assignment.runtimeconfig.json
+D:\GitAssignment\Phase 4\Day5\Phase4Day5Assignment\Phase4Day5Assignment\bin\Release\net6.0\publish\Phase4Day5Assignment.pdb

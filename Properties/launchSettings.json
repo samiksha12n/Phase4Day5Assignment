@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Phase4Day5Assignment": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
